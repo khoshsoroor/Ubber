@@ -1,0 +1,24 @@
+#api_uri: http://52.27.230.100/api
+#api_uri: http://178.22.122.235/api
+api_uri: http://dev.ubaar.ir/api
+
+
+
+client:
+  api_token: AC2zToa6934
+#  user_token: fa8fa2e6b05e9f761dc0b858c992e2
+  sms_code : "68054"
+#  number: "09999999900"
+
+driver:
+  user_token: 296e1ef987315616e47dae623d81a7
+  api_token: kl28AXszTkMRIb4w1r
+  sms_code : "53671"
+
+
+admin:
+  api_token: gOYqnlwsS8vPx7!
+#  user_token: 9d31812ffb1fd0babcaae62c296e25
+  user_token: 76c09205c8d3066f74e94595e9e603
+
+

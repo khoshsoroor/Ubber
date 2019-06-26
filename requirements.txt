@@ -1,0 +1,4 @@
+requests==2.21.0
+khayyam==3.0.17
+aloe==0.1.18
+pyyaml==3.13
